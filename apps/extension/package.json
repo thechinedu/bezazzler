@@ -1,0 +1,6 @@
+{
+  "name": "extension",
+  "devDependencies": {
+    "esbuild": "^0.17.18"
+  }
+}
